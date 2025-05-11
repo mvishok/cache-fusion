@@ -4,9 +4,9 @@
     "main.js": "cache-fusion/static/js/main.51f6b706.js",
     "static/js/453.175db147.chunk.js": "cache-fusion/static/js/453.175db147.chunk.js",
     "index.html": "cache-fusion/index.html",
-    "main.e9c4d8cd.css.map": "cache-fusion/static/css/main.e9c4d8cd.css.map",
+    "main.e9c4d8cd.css.map": "cache-fusion/cache-fusion/static/css/main.e9c4d8cd.css.map",
     "main.51f6b706.js.map": "cache-fusion/static/js/main.51f6b706.js.map",
-    "453.175db147.chunk.js.map": "cache-fusion/static/js/453.175db147.chunk.js.map"
+    "453.175db147.chunk.js.map": "cache-fusion/cache-fusion/static/js/453.175db147.chunk.js.map"
   },
   "entrypoints": [
     "cache-fusion/static/css/main.e9c4d8cd.css",
